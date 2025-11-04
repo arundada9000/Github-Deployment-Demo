@@ -1,0 +1,16 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: #fff3e0;
+  text-align: center;
+  padding-top: 5rem;
+  color: #444;
+}
+a {
+  display: inline-block;
+  margin-top: 1rem;
+  background: #ef6c00;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-decoration: none;
+}
